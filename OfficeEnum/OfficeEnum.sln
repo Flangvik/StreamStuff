@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeEnum", "OfficeEnum\OfficeEnum.csproj", "{7AD7D453-F3FC-488B-AFEB-E9192BA3C99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD7D453-F3FC-488B-AFEB-E9192BA3C99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7D453-F3FC-488B-AFEB-E9192BA3C99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7D453-F3FC-488B-AFEB-E9192BA3C99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7D453-F3FC-488B-AFEB-E9192BA3C99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415512A9-259B-4BDA-BECD-F25C4842F2FC}
+	EndGlobalSection
+EndGlobal
